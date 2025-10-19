@@ -198,3 +198,6 @@ root=Tk()
 b=Application(root)
 root.geometry("1366x768+0+0")
 root.mainloop()
+
+
+#hello, I edit this and claim this is mine now muahahahha
